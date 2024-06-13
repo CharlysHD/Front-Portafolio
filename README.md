@@ -12,6 +12,7 @@ Pantallas:
 - Clients Stories
 - Blogs
 - Contact
+  
   https://www.behance.net/gallery/194267677/Personal-Portfolio-Website-Design?tracking_source=search_projects|portafolio+web+design+personal&l=62
 
   Cosas que faltaron:  footer incompleto, fondo difuso, Hi de fondo, botones en pestaña Work, falto forma en imagen de Cliente.
